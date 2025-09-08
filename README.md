@@ -3,7 +3,7 @@
 |   |   |
 |---|---|
 | <img src="assets/img/portfolio-template.png" width="80%" />   | <img src="assets/img/portfolio-demo.png" width="80%" />   |
-[template](https://gperilli.github.io/templates-portfolio1) | [demo](https://gperilli.github.io/templates-portfolio1/demo)
+[template](https://gperilli.github.io/freecodecamp-portfolio) | [demo](https://gperilli.github.io/freecodecamp-portfolio/demo)
 
 
 
