@@ -1,8 +1,5 @@
 # templates-portfolio
 
-
-
-
 This is a HTML single page portfolio frontend template and demo. The original design came from [https://anniebombanie.com/](https://anniebombanie.com/). I have coded this mostly from scratch, removed the testimonial section and added a few sections of my own: the professional work and graphics work sections. My modified design also includes image galleries for the projects featuring fullscreen, fullpage top-to-bottom screenshots.
 
 Demo Github oages deployment: [freecodecamp-portfolio](https://gperilli.github.io/freecodecamp-portfolio/)

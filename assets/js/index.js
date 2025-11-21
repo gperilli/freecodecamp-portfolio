@@ -4,8 +4,8 @@
 // import { garethSvgPath } from '/assets/js/svg-gareth.js'
 
 // deployed
-import { nameSvgPath } from 'https://gperilli.github.io/templates-portfolio1/assets/js/svg-name.js'
-import { garethSvgPath } from 'https://gperilli.github.io/templates-portfolio1/assets/js/svg-gareth.js'
+import { nameSvgPath } from 'https://gperilli.github.io/freecodecamp-portfolio/assets/js/svg-name.js'
+import { garethSvgPath } from 'https://gperilli.github.io/freecodecamp-portfolio/assets/js/svg-gareth.js'
 
 window.addEventListener( 'load', function() {
   // Deal with translations
